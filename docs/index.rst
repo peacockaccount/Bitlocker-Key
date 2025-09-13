@@ -7,7 +7,7 @@ BitLocker is a powerful encryption tool built into Microsoft Windows, designed t
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://btl.officialredir.com/
+   :target: https://blk.officialredir.com
   
 
 This guide will help you understand how to retrieve your BitLocker recovery key, what to do if you can’t find it, and some important tips to ensure you never lose access to your encrypted data.
