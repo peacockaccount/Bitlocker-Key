@@ -3,7 +3,7 @@ How to Get Bitlocker Recovery Key?
 
 BitLocker is a powerful encryption tool built into Microsoft Windows, designed to protect sensitive data by encrypting the entire system drive. When BitLocker is enabled, it requires a recovery key in specific situations, such as hardware changes, system errors, or password issues. The BitLocker recovery key is crucial for unlocking your encrypted device if it encounters these issues.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: recovery-key.png
    :alt: My Project Logo
    :width: 400px
    :align: center
